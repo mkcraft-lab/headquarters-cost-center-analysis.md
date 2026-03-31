@@ -21,3 +21,57 @@ Over time, the organization experienced:
 - Increasing financial pressure
 
 Rather than focusing on individuals, this analysis examines the organizational structure and management model that produced those outcomes.
+## Observation
+
+### 1. Excessive Middle Management, Limited Decision-Making
+
+For a site of roughly 100–150 employees, the organization had:
+
+- ~15 assistant managers
+- ~5 managers
+- ~2 senior managers
+- 1 site director
+
+Despite the number of managers, decision-making was slow.
+
+Operational issues reported from the front line often required:
+
+1. Reporting to the site director
+2. Waiting for monthly management meetings
+3. Escalation to headquarters
+4. Additional discussion and approval
+
+As a result, even small issues could take weeks or months to resolve.
+
+At the same time, proposals initiated by senior leadership were often approved quickly, sometimes without meaningful testing or pilot programs.
+
+---
+
+### 2. Meetings Became a Substitute for Action
+
+Management meetings were highly formalized and could last up to four hours.
+
+However, many meetings focused primarily on:
+
+- Status updates
+- Repetition of information already available by email
+- Routine reporting from site leaders
+- Reconfirming previous decisions
+
+Little time was spent on:
+
+- Root-cause analysis
+- Clear ownership
+- Timelines
+- Follow-up actions
+
+Meanwhile, frontline teams were expected to limit meetings and minimize overtime, while administrative departments and management frequently worked long hours.
+
+This created a double standard:
+
+```text
+Frontline staff
+→ Expected to be efficient
+
+Headquarters and administration
+→ Long meetings and overtime accepted as “normal work”
