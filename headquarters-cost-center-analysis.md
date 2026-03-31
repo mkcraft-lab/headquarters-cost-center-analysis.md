@@ -69,9 +69,59 @@ Meanwhile, frontline teams were expected to limit meetings and minimize overtime
 
 This created a double standard:
 
-```text
 Frontline staff
 → Expected to be efficient
 
 Headquarters and administration
 → Long meetings and overtime accepted as “normal work”
+
+## Problem Structure
+
+The organization appears to have developed a responsibility-diffusion model.
+
+Many layers of management
+↓
+Responsibility spread across multiple people
+↓
+No one clearly owns the problem
+↓
+Issues are discussed repeatedly
+↓
+Resolution is delayed
+
+At the same time:
+
+Ideas from senior leadership
+↓
+Fast approval
+↓
+Limited testing
+↓
+Frontline teams absorb the consequences
+
+This created two different decision-making systems:
+
+- Bottom-up proposals moved slowly and often stalled
+- Top-down proposals moved quickly, even when insufficiently validated
+
+The result was an organization that was simultaneously bureaucratic and reactive.
+
+Promotion patterns also reinforced the problem:
+
+Promotion based on tenure and relationships
+↓
+More management roles over time
+↓
+More approval layers
+↓
+Less accountability
+↓
+Slower decisions
+
+The organization became dependent on personalities rather than systems.
+
+A strong local leader could secure support and solve problems.
+
+A weak or disengaged leader could block issues entirely.
+
+This made operational quality inconsistent across sites.
