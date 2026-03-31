@@ -73,3 +73,43 @@ Distributing responsibility so no one could be blamed
 Demonstrating that “something was done”
 Preserving hierarchy and internal politics
 This is why even four-hour meetings produced very little change.
+
+## Better Solution
+
+Instead of using meetings for every type of communication, the organization should separate different purposes.
+
+### Use email or shared systems for:
+
+- Routine updates
+- Site-by-site reporting
+- Information already known
+- Monthly status summaries
+
+### Use meetings only for:
+
+- Decisions
+- Problem-solving
+- Prioritization
+- Removing obstacles
+
+A better meeting model would be:
+
+Before the meeting:
+- Share information in advance
+
+During the meeting:
+- Focus only on unresolved issues
+- Assign one decision owner
+- Set a deadline
+
+After the meeting:
+- Record actions and follow up
+Meetings should also be shorter.
+For example:
+30 minutes for status and decision review
+60 minutes maximum for complex issues
+If a meeting cannot produce:
+A decision
+A responsible person
+A deadline
+then the meeting should probably not happen.
