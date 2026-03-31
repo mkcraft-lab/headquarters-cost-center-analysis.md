@@ -166,3 +166,31 @@ Measure:
 - Employee turnover
 - Operational satisfaction
 - ROI of new initiatives
+
+## Why This Matters
+
+The organization did not struggle because frontline employees lacked effort.
+
+In many cases, frontline teams kept the system functioning despite structural weaknesses.
+
+The deeper issue was that the management model rewarded:
+
+- Avoiding responsibility
+- Maintaining hierarchy
+- Preserving appearances
+
+while making it difficult to:
+
+- Raise concerns
+- Test new ideas
+- Solve problems quickly
+
+This case shows how an organization can become increasingly expensive and increasingly ineffective at the same time.
+
+The lesson is not that central management is unnecessary.
+
+The lesson is that headquarters must function as a support system for operations—not as a separate system that consumes resources without improving outcomes.
+
+## Tags
+
+BizOps, Organizational Design, Headquarters Strategy, Decision-Making, Financial Structure, Operations, Management Layers, Accountability, KPI Design, Cost Center Analysis
