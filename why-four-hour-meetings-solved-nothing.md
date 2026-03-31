@@ -41,3 +41,35 @@ This created a contradiction:
 - Managers demonstrated that spending more time in meetings was acceptable
 
 Employees gradually learned that the purpose of meetings was not to solve problems, but to show participation and avoid responsibility.
+
+## Problem Structure
+
+The meetings were not ineffective because employees lacked intelligence or motivation.
+
+They were ineffective because the meeting structure itself rewarded the wrong behaviors.
+
+Large number of managers
+↓
+Many people involved in each decision
+↓
+Responsibility becomes unclear
+↓
+Meetings focus on discussion rather than decisions
+↓
+No action owner is assigned
+↓
+The same issue returns next month
+The organization also created an environment where disagreeing was risky.
+Plain text
+Senior leadership speaks first
+↓
+Others avoid disagreement
+↓
+Real concerns are not raised
+↓
+Weak ideas move forward
+As a result, meetings served three hidden functions:
+Distributing responsibility so no one could be blamed
+Demonstrating that “something was done”
+Preserving hierarchy and internal politics
+This is why even four-hour meetings produced very little change.
