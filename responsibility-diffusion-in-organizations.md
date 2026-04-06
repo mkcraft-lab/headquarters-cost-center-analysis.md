@@ -89,3 +89,31 @@ As a result:
 - Decisions became slower
 
 The organization appeared highly controlled, but in practice, responsibility was unclear.
+## Better Solution
+
+To reduce responsibility diffusion, the organization should make ownership explicit.
+
+For every operational problem, there should be:
+
+- One person responsible
+- One deadline
+- One clear next action
+
+For example:
+Problem identified
+↓
+Assigned to one owner
+↓
+Decision deadline set
+↓
+Progress reviewed weekly
+The organization should also reduce the number of approval layers.
+Small and medium-sized problems should be solved at the local level whenever possible.
+Only large financial, legal, or strategic issues should require headquarters approval.
+In addition, employees should be allowed to communicate directly with the person who can solve the problem, rather than always moving through multiple layers.
+Finally, organizations should measure:
+Time required to solve a problem
+Number of unresolved issues
+Number of approval steps
+How often issues are escalated but not resolved
+If these metrics improve, responsibility is becoming clearer.
