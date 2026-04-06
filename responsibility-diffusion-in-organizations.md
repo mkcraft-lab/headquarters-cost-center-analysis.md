@@ -52,3 +52,40 @@ Instead, they learned that:
 - Reporting a problem created more work
 - Escalating an issue was risky
 - It was often easier to remain silent
+## Problem Structure
+
+The organization created a system in which responsibility became weaker each time a problem moved upward.
+
+Problem occurs
+↓
+Frontline reports it
+↓
+Manager says “I need approval”
+↓
+Site leader says “We will discuss it later”
+↓
+Headquarters says “We were not informed”
+↓
+No one acts
+
+Because so many people were involved, each person could believe that someone else was responsible.
+
+As a result:
+
+- Problems remained unresolved for long periods
+- Employees lost trust in the system
+- Managers focused more on self-protection than problem-solving
+- Small issues became larger and more expensive over time
+
+The organization also discouraged direct communication.
+
+Employees were expected to follow hierarchy instead of speaking directly to the person who could solve the problem.
+
+As a result:
+
+- Information became distorted as it moved upward
+- Important details disappeared
+- Urgency was reduced
+- Decisions became slower
+
+The organization appeared highly controlled, but in practice, responsibility was unclear.
