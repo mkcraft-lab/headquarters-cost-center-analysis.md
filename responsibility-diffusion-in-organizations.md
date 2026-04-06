@@ -117,3 +117,39 @@ Number of unresolved issues
 Number of approval steps
 How often issues are escalated but not resolved
 If these metrics improve, responsibility is becoming clearer.
+## Why This Matters
+
+Many organizations believe that adding more managers and more approval steps creates stability.
+
+In reality, too many layers often create the opposite:
+
+- Slower decisions
+- Less accountability
+- More frustration
+- Higher costs
+
+When no one clearly owns a problem, problems survive.
+
+Over time, employees stop reporting issues because they no longer believe that anything will change.
+
+This creates a dangerous cycle:
+
+Problem appears
+↓
+Employee reports it
+↓
+Nothing happens
+↓
+Employee stops reporting
+↓
+The organization loses visibility
+↓
+The problem becomes worse
+
+A healthy organization is not one where every problem moves through many layers.
+
+A healthy organization is one where responsibility is clear, action is fast, and problems are solved close to where they occur.
+
+## Tags
+
+BizOps, Accountability, Organizational Design, Decision-Making, Management Structure, Operations, Responsibility, Process Improvement
