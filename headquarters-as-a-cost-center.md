@@ -34,3 +34,30 @@ At the same time:
 - Financial pressure increased across the organization
 
 This case study examines how a headquarters function can become a cost center instead of a support function.
+## Observation
+
+Although headquarters had significant authority and resources, many frontline employees felt that it provided very little practical support.
+
+Several patterns were visible:
+
+- Headquarters frequently requested reports from local sites
+- Headquarters rarely visited sites directly
+- Local leaders were expected to solve problems on their own
+- Budget approval was slow, even for necessary repairs
+
+At the same time, headquarters spending continued to increase.
+
+Examples included:
+
+- Large numbers of administrative staff
+- Extensive overtime within headquarters departments
+- Overseas travel programs
+- Recruitment-related spending
+- Housing and living support for selected employees
+- Expensive purchases that were not fully tested before implementation
+
+Some sites were allowed to spend freely, while others struggled to repair basic equipment.
+
+As a result, resource allocation became inconsistent across the organization.
+
+Employees began to feel that headquarters consumed resources without improving operations.
