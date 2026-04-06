@@ -61,3 +61,18 @@ Some sites were allowed to spend freely, while others struggled to repair basic 
 As a result, resource allocation became inconsistent across the organization.
 
 Employees began to feel that headquarters consumed resources without improving operations.
+Local sites need repairs or support
+↓
+Budget approval is delayed
+↓
+Problems become more serious
+↓
+Emergency spending becomes necessary
+The organization also lacked a clear method for evaluating whether headquarters spending created value.
+For example:
+Travel programs were approved without measuring operational impact
+Expensive equipment was purchased without testing
+Administrative departments grew without clear productivity measures
+As a result, headquarters was treated as if growth itself were success.
+However, a larger headquarters does not automatically create a stronger organization.
+Without clear accountability, headquarters can become a system that consumes resources while creating very little value.
